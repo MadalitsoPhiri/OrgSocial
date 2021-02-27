@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/black"
+    tools:context=".ViewImageActivity" android:tag="layout/activity_view_image_0">
+
+    <!--The custom toolbar for profile image view-->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                android:textColor="@android:color/white"
+                android:layout_marginLeft="15dp"
+                android:text="Profile Photo"/>
+            <ImageButton
+                android:id="@+id/profileViewImageEdit"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:padding="10dp"
+                android:background="@android:color/transparent"
+                android:tint="@android:color/white"
+                app:srcCompat="@drawable/ic_baseline_edit_24"/>
+            <ImageButton
+                android:id="@+id/viewImageShare"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@android:color/transparent"
+                app:srcCompat="@drawable/ic_baseline_share_24"/>
+        </LinearLayout>
+    </androidx.appcompat.widget.Toolbar>
+
+    <com.jsibbold.zoomage.ZoomageView
+        android:id="@+id/myZoomageView"
+        android:transitionName="profImg"
+        android:scaleType="fitCenter"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+</LinearLayout>
+         

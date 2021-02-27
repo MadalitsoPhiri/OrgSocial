@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RelativeLayout
+            android:layout_gravity="center_horizontal"
+            android:layout_width="50dp"
+            android:layout_height="50dp">
+
+            <com.mikhaellopez.circularimageview.CircularImageView
+                android:id="@+id/profileImage"
+                app:civ_border_color="@color/colorAccent"
+                app:civ_border_width="2dp"
+                app:srcCompat="@drawable/ic_user_placeholder"
+                android:layout_width="50dp"
+                android:layout_height="50dp" />
+
+            <ProgressBar
+                android:id="@+id/profileImgProgress"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:visibility="gone"
+                android:layout_centerInParent="true" />
+            <ImageButton
+                android:id="@+id/checked"
+                android:clickable="false"
+                android:background="@drawable/ic_group_5"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_width="20dp"
+                android:layout_height="20dp"/>
+        </RelativeLayout>
+        <TextView
+            android:id="@+id/username"
+            android:textColor="@android:color/black"
+            android:text="Madalitso"
+            android:textSize="10sp"
+            android:layout_gravity="center_horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+    </LinearLayout>
+
+</LinearLayout>

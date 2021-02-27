@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "895980682880",
+    "firebase_url": "https://orgsocial-f8a76.firebaseio.com",
+    "project_id": "orgsocial-f8a76",
+    "storage_bucket": "orgsocial-f8a76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895980682880:android:dc83d3360da8123c637065",
+        "android_client_info": {
+          "package_name": "com.example.orgsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895980682880-u0qcdsqcvquoaue9plb17pqsuhh9h092.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7UHB0tc9SoA6lxGNl-_Tw9vOoEIIKymc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895980682880-u0qcdsqcvquoaue9plb17pqsuhh9h092.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

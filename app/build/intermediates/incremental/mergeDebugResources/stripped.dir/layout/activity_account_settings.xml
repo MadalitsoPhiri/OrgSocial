@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".settings.AccountSettings" android:tag="layout/activity_account_settings_0">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        app:title="Account"
+        app:titleMarginStart="30dp"
+        app:titleTextColor="@android:color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary">
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <LinearLayout
+        android:id="@+id/privacy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="15dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="35dp"
+            app:srcCompat="@drawable/ic_baseline_lock_24"
+            android:tint="#8E939A"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="16dp"
+            android:layout_height="35dp"/>
+
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:layout_height="wrap_content"
+            android:text="Privacy"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/changeEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="15dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="35dp"
+            app:srcCompat="@drawable/ic_baseline_email_24"
+            android:tint="#8E939A"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="16dp"
+            android:layout_height="35dp"/>
+
+            <TextView
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:textSize="18sp"
+                android:textColor="@android:color/black"
+                android:layout_height="wrap_content"
+                android:text="Change Email"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="15dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="35dp"
+            app:srcCompat="@drawable/ic_baseline_vpn_key_24"
+            android:tint="#8E939A"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="16dp"
+            android:layout_height="35dp"/>
+
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:layout_height="wrap_content"
+            android:text="Logout"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/deleteAccount"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="15dp"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="35dp"
+            app:srcCompat="@drawable/ic_baseline_delete_forever_24"
+            android:tint="#D88C8C"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="16dp"
+            android:layout_height="35dp"/>
+
+        <TextView
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:layout_height="wrap_content"
+            android:text="Delete My Account"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
+         

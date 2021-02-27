@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_edit_group_admins.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_edit_group_admins.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\participants_recycler_itemview1.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\participants_recycler_itemview1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottom_sheet_edit_about.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\bottom_sheet_edit_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottom_sheet_picker.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\bottom_sheet_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_view_image.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_view_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_subject.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_group_subject.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\group_list_item.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\group_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\participants_list_item.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\participants_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chats.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_chat_profile.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_chat_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chat_item_left.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\chat_item_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_start_container.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_start_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\contact_list_item.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\contact_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chat_list_dialog.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\chat_list_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\contact_list_item1.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\contact_list_item1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_list.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_group_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_contacts.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_welcome.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chat_item_right.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\chat_item_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\auth_container.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\auth_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottom_sheet_edit_phone.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\bottom_sheet_edit_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_settings.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_group_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_splashscreen.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\contact_list_item2.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\contact_list_item2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\participants_grid_item_view1.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\participants_grid_item_view1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_description.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_group_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_email_verificaton.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_email_verificaton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_participants.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_add_participants.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_chats.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_chat.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_group_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\call_list_item.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\call_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\participants_grid_item_view.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\participants_grid_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_groups.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_groups.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_participants_groups.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_participants_groups.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chat_list_item.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\chat_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_edit_group_subject.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_edit_group_subject.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_events.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_status.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\chat_item_announcement.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\chat_item_announcement.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_dialog.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bottom_sheet_edit_name.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\bottom_sheet_edit_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_signup.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_user_info.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_calls.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_calls.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_account_settings.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_account_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_group_profile.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_group_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\participants_recycler_itemview.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\participants_recycler_itemview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

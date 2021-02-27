@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context=".ContactsActivity" android:tag="layout/activity_group_list_0">
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:title="Select A Group"
+            app:titleTextColor="@android:color/white"
+            android:background="@color/colorPrimary">
+
+        </androidx.appcompat.widget.Toolbar>
+
+        <LinearLayout
+            android:id="@+id/newGroupLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingRight="20dp"
+            android:paddingLeft="20dp"
+            android:orientation="horizontal"
+            android:visibility="gone"
+            >
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/groupIcon"
+                    android:layout_width="40dp"
+                    app:srcCompat="@drawable/ic_group_17"
+                    android:layout_height="40dp" />
+
+                <ProgressBar
+                    android:id="@+id/orgProfileImgProgress"
+                    android:visibility="gone"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_centerInParent="true" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:orientation="vertical"
+                android:paddingLeft="15dp"
+                android:paddingRight="15dp">
+
+                <TextView
+                    android:id="@+id/orgsocialName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="New Group"
+                    android:textColor="@android:color/black"
+                    android:textSize="15sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+
+       <RelativeLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent">
+           <androidx.recyclerview.widget.RecyclerView
+               android:id="@+id/recyclerView"
+               android:paddingTop="10dp"
+               android:paddingBottom="10dp"
+               android:paddingRight="15dp"
+               android:paddingLeft="15dp"
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"/>
+           <ProgressBar
+               android:id="@+id/groupListProgress"
+               android:layout_width="wrap_content"
+               android:layout_centerInParent="true"
+               android:layout_height="wrap_content"/>
+       </RelativeLayout>
+
+    </LinearLayout>
+         

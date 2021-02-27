@@ -1,0 +1,450 @@
+com/example/orgsocial/adapters/ParticipantsAdapter.java
+ com.example.orgsocial.adapters.ParticipantsAdapter
+ com.example.orgsocial.adapters.ParticipantsAdapter$1
+ com.example.orgsocial.adapters.ParticipantsAdapter$2
+ com.example.orgsocial.adapters.ParticipantsAdapter$Holder
+com/example/orgsocial/databinding/ActivityAddParticipantsBinding.java
+ com.example.orgsocial.databinding.ActivityAddParticipantsBinding
+com/example/orgsocial/MainActivity.java
+ com.example.orgsocial.MainActivity
+ com.example.orgsocial.MainActivity$1
+ com.example.orgsocial.MainActivity$2
+ com.example.orgsocial.MainActivity$2$1
+ com.example.orgsocial.MainActivity$2$2
+ com.example.orgsocial.MainActivity$3
+ com.example.orgsocial.MainActivity$Welcome
+ com.example.orgsocial.MainActivity$Welcome$1
+com/example/orgsocial/userInfo.java
+ com.example.orgsocial.userInfo
+ com.example.orgsocial.userInfo$1
+ com.example.orgsocial.userInfo$2
+ com.example.orgsocial.userInfo$3
+ com.example.orgsocial.userInfo$4
+ com.example.orgsocial.userInfo$5
+ com.example.orgsocial.userInfo$6
+ com.example.orgsocial.userInfo$7
+ com.example.orgsocial.userInfo$8
+ com.example.orgsocial.userInfo$8$1
+ com.example.orgsocial.userInfo$8$2
+ com.example.orgsocial.userInfo$8$2$1
+ com.example.orgsocial.userInfo$8$2$2
+com/example/orgsocial/databinding/FragmentChatsBinding.java
+ com.example.orgsocial.databinding.FragmentChatsBinding
+com/example/orgsocial/models/Chats.java
+ com.example.orgsocial.models.Chats
+com/example/orgsocial/databinding/ActivityEditGroupSubjectBinding.java
+ com.example.orgsocial.databinding.ActivityEditGroupSubjectBinding
+com/example/orgsocial/databinding/ParticipantsRecyclerItemview1Binding.java
+ com.example.orgsocial.databinding.ParticipantsRecyclerItemview1Binding
+com/example/orgsocial/databinding/ChatItemAnnouncementBinding.java
+ com.example.orgsocial.databinding.ChatItemAnnouncementBinding
+com/example/orgsocial/utils/Commons.java
+ com.example.orgsocial.utils.Commons
+com/example/orgsocial/ActivityGroupList.java
+ com.example.orgsocial.ActivityGroupList
+ com.example.orgsocial.ActivityGroupList$1
+ com.example.orgsocial.ActivityGroupList$2
+ com.example.orgsocial.ActivityGroupList$3
+ com.example.orgsocial.ActivityGroupList$4
+ com.example.orgsocial.ActivityGroupList$5
+com/example/orgsocial/adapters/ContactsAdapter.java
+ com.example.orgsocial.adapters.ContactsAdapter
+ com.example.orgsocial.adapters.ContactsAdapter$1
+ com.example.orgsocial.adapters.ContactsAdapter$2
+ com.example.orgsocial.adapters.ContactsAdapter$Holder
+com/example/orgsocial/models/Common.java
+ com.example.orgsocial.models.Common
+com/example/orgsocial/EditGroupAdmins.java
+ com.example.orgsocial.EditGroupAdmins
+ com.example.orgsocial.EditGroupAdmins$1
+ com.example.orgsocial.EditGroupAdmins$2
+ com.example.orgsocial.EditGroupAdmins$3
+ com.example.orgsocial.EditGroupAdmins$4
+com/example/orgsocial/StatusFragment.java
+ com.example.orgsocial.StatusFragment
+com/example/orgsocial/adapters/AdminAddedAdapter.java
+ com.example.orgsocial.adapters.AdminAddedAdapter
+ com.example.orgsocial.adapters.AdminAddedAdapter$1
+ com.example.orgsocial.adapters.AdminAddedAdapter$2
+ com.example.orgsocial.adapters.AdminAddedAdapter$ViewHolder
+com/example/orgsocial/databinding/FragmentCallsBinding.java
+ com.example.orgsocial.databinding.FragmentCallsBinding
+com/example/orgsocial/adapters/callListAdapter.java
+ com.example.orgsocial.adapters.callListAdapter
+ com.example.orgsocial.adapters.callListAdapter$Holder
+com/example/orgsocial/databinding/ActivityGroupListBinding.java
+ com.example.orgsocial.databinding.ActivityGroupListBinding
+com/example/orgsocial/databinding/ActivityProfileBinding.java
+ com.example.orgsocial.databinding.ActivityProfileBinding
+com/example/orgsocial/databinding/FragmentGroupsBinding.java
+ com.example.orgsocial.databinding.FragmentGroupsBinding
+com/example/orgsocial/adapters/SectionPagerAdapter.java
+ com.example.orgsocial.adapters.SectionPagerAdapter
+com/example/orgsocial/databinding/ActivityParticipantsGroupsBinding.java
+ com.example.orgsocial.databinding.ActivityParticipantsGroupsBinding
+com/example/orgsocial/databinding/ParticipantsListItemBinding.java
+ com.example.orgsocial.databinding.ParticipantsListItemBinding
+com/example/orgsocial/databinding/FragmentLoginBinding.java
+ com.example.orgsocial.databinding.FragmentLoginBinding
+com/example/orgsocial/ChatsFragment.java
+ com.example.orgsocial.ChatsFragment
+ com.example.orgsocial.ChatsFragment$1
+ com.example.orgsocial.ChatsFragment$1$1
+ com.example.orgsocial.ChatsFragment$2
+ com.example.orgsocial.ChatsFragment$3
+ com.example.orgsocial.ChatsFragment$4
+ com.example.orgsocial.ChatsFragment$5
+com/example/orgsocial/databinding/BottomSheetEditNameBinding.java
+ com.example.orgsocial.databinding.BottomSheetEditNameBinding
+com/example/orgsocial/adapters/GroupParticipantsAdapter.java
+ com.example.orgsocial.adapters.GroupParticipantsAdapter
+ com.example.orgsocial.adapters.GroupParticipantsAdapter$1
+ com.example.orgsocial.adapters.GroupParticipantsAdapter$Holder
+com/example/orgsocial/databinding/ActivityStartContainerBinding.java
+ com.example.orgsocial.databinding.ActivityStartContainerBinding
+com/example/orgsocial/databinding/ActivitySettingsBinding.java
+ com.example.orgsocial.databinding.ActivitySettingsBinding
+com/example/orgsocial/databinding/FragmentSignupBinding.java
+ com.example.orgsocial.databinding.FragmentSignupBinding
+com/example/orgsocial/DataBindingTriggerClass.java
+ com.example.orgsocial.DataBindingTriggerClass
+com/example/orgsocial/groupSubjectActivity.java
+ com.example.orgsocial.groupSubjectActivity
+ com.example.orgsocial.groupSubjectActivity$1
+ com.example.orgsocial.groupSubjectActivity$10
+ com.example.orgsocial.groupSubjectActivity$10$1
+ com.example.orgsocial.groupSubjectActivity$10$2
+ com.example.orgsocial.groupSubjectActivity$10$2$1
+ com.example.orgsocial.groupSubjectActivity$10$2$2
+ com.example.orgsocial.groupSubjectActivity$10$2$3
+ com.example.orgsocial.groupSubjectActivity$10$2$4
+ com.example.orgsocial.groupSubjectActivity$10$2$4$1
+ com.example.orgsocial.groupSubjectActivity$10$2$4$2
+ com.example.orgsocial.groupSubjectActivity$10$2$5
+ com.example.orgsocial.groupSubjectActivity$10$2$6
+ com.example.orgsocial.groupSubjectActivity$10$2$6$1
+ com.example.orgsocial.groupSubjectActivity$10$2$6$2
+ com.example.orgsocial.groupSubjectActivity$2
+ com.example.orgsocial.groupSubjectActivity$3
+ com.example.orgsocial.groupSubjectActivity$4
+ com.example.orgsocial.groupSubjectActivity$5
+ com.example.orgsocial.groupSubjectActivity$6
+ com.example.orgsocial.groupSubjectActivity$7
+ com.example.orgsocial.groupSubjectActivity$8
+ com.example.orgsocial.groupSubjectActivity$9
+com/example/orgsocial/databinding/BottomSheetEditAboutBinding.java
+ com.example.orgsocial.databinding.BottomSheetEditAboutBinding
+com/example/orgsocial/EditGroupSubject.java
+ com.example.orgsocial.EditGroupSubject
+ com.example.orgsocial.EditGroupSubject$1
+ com.example.orgsocial.EditGroupSubject$2
+ com.example.orgsocial.EditGroupSubject$3
+ com.example.orgsocial.EditGroupSubject$4
+ com.example.orgsocial.EditGroupSubject$5
+com/example/orgsocial/utils/groupParticipantsClickListener.java
+ com.example.orgsocial.utils.groupParticipantsClickListener
+com/example/orgsocial/ContactsActivity.java
+ com.example.orgsocial.ContactsActivity
+ com.example.orgsocial.ContactsActivity$1
+ com.example.orgsocial.ContactsActivity$2
+ com.example.orgsocial.ContactsActivity$3
+com/example/orgsocial/adapters/AdminAdapter.java
+ com.example.orgsocial.adapters.AdminAdapter
+ com.example.orgsocial.adapters.AdminAdapter$1
+ com.example.orgsocial.adapters.AdminAdapter$2
+ com.example.orgsocial.adapters.AdminAdapter$Holder
+com/example/orgsocial/databinding/ParticipantsGridItemViewBinding.java
+ com.example.orgsocial.databinding.ParticipantsGridItemViewBinding
+com/example/orgsocial/databinding/ActivityEditGroupAdminsBinding.java
+ com.example.orgsocial.databinding.ActivityEditGroupAdminsBinding
+com/example/orgsocial/adapters/GroupsAdapter.java
+ com.example.orgsocial.adapters.GroupsAdapter
+ com.example.orgsocial.adapters.GroupsAdapter$1
+ com.example.orgsocial.adapters.GroupsAdapter$2
+ com.example.orgsocial.adapters.GroupsAdapter$Holder
+com/example/orgsocial/ParticipantsActivity.java
+ com.example.orgsocial.ParticipantsActivity
+ com.example.orgsocial.ParticipantsActivity$1
+ com.example.orgsocial.ParticipantsActivity$2
+ com.example.orgsocial.ParticipantsActivity$3
+ com.example.orgsocial.ParticipantsActivity$4
+ com.example.orgsocial.ParticipantsActivity$5
+com/example/orgsocial/settings/AccountSettings.java
+ com.example.orgsocial.settings.AccountSettings
+ com.example.orgsocial.settings.AccountSettings$1
+ com.example.orgsocial.settings.AccountSettings$2
+ com.example.orgsocial.settings.AccountSettings$3
+ com.example.orgsocial.settings.AccountSettings$4
+ com.example.orgsocial.settings.AccountSettings$5
+ com.example.orgsocial.settings.AccountSettings$6
+com/example/orgsocial/ChatsActivity.java
+ com.example.orgsocial.ChatsActivity
+ com.example.orgsocial.ChatsActivity$1
+ com.example.orgsocial.ChatsActivity$10
+ com.example.orgsocial.ChatsActivity$11
+ com.example.orgsocial.ChatsActivity$12
+ com.example.orgsocial.ChatsActivity$12$1
+ com.example.orgsocial.ChatsActivity$12$2
+ com.example.orgsocial.ChatsActivity$2
+ com.example.orgsocial.ChatsActivity$3
+ com.example.orgsocial.ChatsActivity$4
+ com.example.orgsocial.ChatsActivity$5
+ com.example.orgsocial.ChatsActivity$5$1
+ com.example.orgsocial.ChatsActivity$5$2
+ com.example.orgsocial.ChatsActivity$6
+ com.example.orgsocial.ChatsActivity$7
+ com.example.orgsocial.ChatsActivity$8
+ com.example.orgsocial.ChatsActivity$9
+com/example/orgsocial/ViewImageActivity.java
+ com.example.orgsocial.ViewImageActivity
+ com.example.orgsocial.ViewImageActivity$1
+ com.example.orgsocial.ViewImageActivity$2
+com/example/orgsocial/databinding/ActivitySplashscreenBinding.java
+ com.example.orgsocial.databinding.ActivitySplashscreenBinding
+com/example/orgsocial/adapters/chatListAdapter.java
+ com.example.orgsocial.adapters.chatListAdapter
+ com.example.orgsocial.adapters.chatListAdapter$1
+ com.example.orgsocial.adapters.chatListAdapter$2
+ com.example.orgsocial.adapters.chatListAdapter$3
+ com.example.orgsocial.adapters.chatListAdapter$4
+ com.example.orgsocial.adapters.chatListAdapter$Holder
+com/example/orgsocial/CallsFragment.java
+ com.example.orgsocial.CallsFragment
+com/example/orgsocial/databinding/ActivityContactsBinding.java
+ com.example.orgsocial.databinding.ActivityContactsBinding
+com/example/orgsocial/databinding/ChatListItemBinding.java
+ com.example.orgsocial.databinding.ChatListItemBinding
+com/example/orgsocial/databinding/FragmentUserInfoBinding.java
+ com.example.orgsocial.databinding.FragmentUserInfoBinding
+com/example/orgsocial/databinding/ParticipantsGridItemView1Binding.java
+ com.example.orgsocial.databinding.ParticipantsGridItemView1Binding
+com/example/orgsocial/databinding/ContactListItemBinding.java
+ com.example.orgsocial.databinding.ContactListItemBinding
+com/example/orgsocial/adapters/participantsAddedAdapter.java
+ com.example.orgsocial.adapters.participantsAddedAdapter
+ com.example.orgsocial.adapters.participantsAddedAdapter$1
+ com.example.orgsocial.adapters.participantsAddedAdapter$2
+ com.example.orgsocial.adapters.participantsAddedAdapter$ViewHolder
+com/example/orgsocial/databinding/ActivityAccountSettingsBinding.java
+ com.example.orgsocial.databinding.ActivityAccountSettingsBinding
+com/example/orgsocial/databinding/ActivityChatProfileBinding.java
+ com.example.orgsocial.databinding.ActivityChatProfileBinding
+com/example/orgsocial/databinding/ActivityGroupDescriptionBinding.java
+ com.example.orgsocial.databinding.ActivityGroupDescriptionBinding
+com/example/orgsocial/GroupSettings.java
+ com.example.orgsocial.GroupSettings
+ com.example.orgsocial.GroupSettings$1
+ com.example.orgsocial.GroupSettings$2
+com/example/orgsocial/settings/SettingsActivity.java
+ com.example.orgsocial.settings.SettingsActivity
+ com.example.orgsocial.settings.SettingsActivity$1
+ com.example.orgsocial.settings.SettingsActivity$2
+ com.example.orgsocial.settings.SettingsActivity$3
+ com.example.orgsocial.settings.SettingsActivity$4
+ com.example.orgsocial.settings.SettingsActivity$4$1
+com/example/orgsocial/databinding/FragmentStatusBinding.java
+ com.example.orgsocial.databinding.FragmentStatusBinding
+com/example/orgsocial/GroupChatActivity.java
+ com.example.orgsocial.GroupChatActivity
+ com.example.orgsocial.GroupChatActivity$1
+ com.example.orgsocial.GroupChatActivity$10
+ com.example.orgsocial.GroupChatActivity$2
+ com.example.orgsocial.GroupChatActivity$3
+ com.example.orgsocial.GroupChatActivity$3$1
+ com.example.orgsocial.GroupChatActivity$3$2
+ com.example.orgsocial.GroupChatActivity$4
+ com.example.orgsocial.GroupChatActivity$5
+ com.example.orgsocial.GroupChatActivity$6
+ com.example.orgsocial.GroupChatActivity$7
+ com.example.orgsocial.GroupChatActivity$8
+ com.example.orgsocial.GroupChatActivity$9
+com/example/orgsocial/Groups.java
+ com.example.orgsocial.Groups
+ com.example.orgsocial.Groups$1
+ com.example.orgsocial.Groups$1$1
+ com.example.orgsocial.Groups$2
+ com.example.orgsocial.Groups$3
+ com.example.orgsocial.Groups$4
+ com.example.orgsocial.Groups$5
+ com.example.orgsocial.Groups$6
+com/example/orgsocial/databinding/BottomSheetPickerBinding.java
+ com.example.orgsocial.databinding.BottomSheetPickerBinding
+com/example/orgsocial/databinding/FragmentEventsBinding.java
+ com.example.orgsocial.databinding.FragmentEventsBinding
+com/example/orgsocial/adapters/participantsGridLayoutAdapter.java
+ com.example.orgsocial.adapters.participantsGridLayoutAdapter
+ com.example.orgsocial.adapters.participantsGridLayoutAdapter$1
+ com.example.orgsocial.adapters.participantsGridLayoutAdapter$Holder
+com/example/orgsocial/models/GroupUser.java
+ com.example.orgsocial.models.GroupUser
+com/example/orgsocial/GroupProfileActivity.java
+ com.example.orgsocial.GroupProfileActivity
+ com.example.orgsocial.GroupProfileActivity$1
+ com.example.orgsocial.GroupProfileActivity$2
+ com.example.orgsocial.GroupProfileActivity$3
+ com.example.orgsocial.GroupProfileActivity$4
+ com.example.orgsocial.GroupProfileActivity$5
+ com.example.orgsocial.GroupProfileActivity$6
+ com.example.orgsocial.GroupProfileActivity$6$1
+ com.example.orgsocial.GroupProfileActivity$7
+ com.example.orgsocial.GroupProfileActivity$8
+ com.example.orgsocial.GroupProfileActivity$9
+ com.example.orgsocial.GroupProfileActivity$9$1
+ com.example.orgsocial.GroupProfileActivity$9$2
+com/example/orgsocial/GroupDescription.java
+ com.example.orgsocial.GroupDescription
+ com.example.orgsocial.GroupDescription$1
+ com.example.orgsocial.GroupDescription$2
+ com.example.orgsocial.GroupDescription$3
+ com.example.orgsocial.GroupDescription$4
+ com.example.orgsocial.GroupDescription$5
+com/example/orgsocial/databinding/BottomSheetEditPhoneBinding.java
+ com.example.orgsocial.databinding.BottomSheetEditPhoneBinding
+com/example/orgsocial/databinding/ActivityGroupSettingsBinding.java
+ com.example.orgsocial.databinding.ActivityGroupSettingsBinding
+com/example/orgsocial/models/CallList.java
+ com.example.orgsocial.models.CallList
+com/example/orgsocial/databinding/ActivityGroupSubjectBinding.java
+ com.example.orgsocial.databinding.ActivityGroupSubjectBinding
+com/example/orgsocial/databinding/FragmentWelcomeBinding.java
+ com.example.orgsocial.databinding.FragmentWelcomeBinding
+com/example/orgsocial/ChatProfileActivity.java
+ com.example.orgsocial.ChatProfileActivity
+ com.example.orgsocial.ChatProfileActivity$1
+ com.example.orgsocial.ChatProfileActivity$2
+ com.example.orgsocial.ChatProfileActivity$3
+ com.example.orgsocial.ChatProfileActivity$4
+ com.example.orgsocial.ChatProfileActivity$4$1
+ com.example.orgsocial.ChatProfileActivity$4$2
+com/example/orgsocial/authentication/Signup.java
+ com.example.orgsocial.authentication.Signup
+ com.example.orgsocial.authentication.Signup$1
+ com.example.orgsocial.authentication.Signup$2
+ com.example.orgsocial.authentication.Signup$3
+ com.example.orgsocial.authentication.Signup$4
+ com.example.orgsocial.authentication.Signup$5
+ com.example.orgsocial.authentication.Signup$6
+ com.example.orgsocial.authentication.Signup$6$1
+ com.example.orgsocial.authentication.Signup$6$2
+ com.example.orgsocial.authentication.Signup$6$2$1
+ com.example.orgsocial.authentication.Signup$6$2$1$1
+com/example/orgsocial/models/ChatList.java
+ com.example.orgsocial.models.ChatList
+com/example/orgsocial/databinding/ParticipantsRecyclerItemviewBinding.java
+ com.example.orgsocial.databinding.ParticipantsRecyclerItemviewBinding
+com/example/orgsocial/adapters/ChatsAdapter.java
+ com.example.orgsocial.adapters.ChatsAdapter
+ com.example.orgsocial.adapters.ChatsAdapter$Holder
+com/example/orgsocial/databinding/ContactListItem1Binding.java
+ com.example.orgsocial.databinding.ContactListItem1Binding
+com/example/orgsocial/ProfileActivity.java
+ com.example.orgsocial.ProfileActivity
+ com.example.orgsocial.ProfileActivity$1
+ com.example.orgsocial.ProfileActivity$10
+ com.example.orgsocial.ProfileActivity$11
+ com.example.orgsocial.ProfileActivity$12
+ com.example.orgsocial.ProfileActivity$13
+ com.example.orgsocial.ProfileActivity$14
+ com.example.orgsocial.ProfileActivity$15
+ com.example.orgsocial.ProfileActivity$16
+ com.example.orgsocial.ProfileActivity$17
+ com.example.orgsocial.ProfileActivity$18
+ com.example.orgsocial.ProfileActivity$19
+ com.example.orgsocial.ProfileActivity$2
+ com.example.orgsocial.ProfileActivity$20
+ com.example.orgsocial.ProfileActivity$21
+ com.example.orgsocial.ProfileActivity$21$1
+ com.example.orgsocial.ProfileActivity$21$2
+ com.example.orgsocial.ProfileActivity$22
+ com.example.orgsocial.ProfileActivity$23
+ com.example.orgsocial.ProfileActivity$23$1
+ com.example.orgsocial.ProfileActivity$3
+ com.example.orgsocial.ProfileActivity$4
+ com.example.orgsocial.ProfileActivity$5
+ com.example.orgsocial.ProfileActivity$6
+ com.example.orgsocial.ProfileActivity$7
+ com.example.orgsocial.ProfileActivity$8
+ com.example.orgsocial.ProfileActivity$9
+com/example/orgsocial/databinding/ContactListItem2Binding.java
+ com.example.orgsocial.databinding.ContactListItem2Binding
+com/example/orgsocial/models/Group.java
+ com.example.orgsocial.models.Group
+com/example/orgsocial/models/User.java
+ com.example.orgsocial.models.User
+com/example/orgsocial/StartActivity.java
+ com.example.orgsocial.StartActivity
+ com.example.orgsocial.StartActivity$1
+com/example/orgsocial/authentication/LoginActivity.java
+ com.example.orgsocial.authentication.LoginActivity
+com/example/orgsocial/Events.java
+ com.example.orgsocial.Events
+com/example/orgsocial/databinding/FragmentEmailVerificatonBinding.java
+ com.example.orgsocial.databinding.FragmentEmailVerificatonBinding
+com/example/orgsocial/databinding/ActivityMainBinding.java
+ com.example.orgsocial.databinding.ActivityMainBinding
+com/example/orgsocial/databinding/AuthContainerBinding.java
+ com.example.orgsocial.databinding.AuthContainerBinding
+com/example/orgsocial/addParticipants.java
+ com.example.orgsocial.addParticipants
+ com.example.orgsocial.addParticipants$1
+ com.example.orgsocial.addParticipants$2
+ com.example.orgsocial.addParticipants$3
+ com.example.orgsocial.addParticipants$4
+ com.example.orgsocial.addParticipants$5
+ com.example.orgsocial.addParticipants$5$1
+ com.example.orgsocial.addParticipants$6
+ com.example.orgsocial.addParticipants$7
+ com.example.orgsocial.addParticipants$8
+com/example/orgsocial/databinding/CallListItemBinding.java
+ com.example.orgsocial.databinding.CallListItemBinding
+com/example/orgsocial/databinding/ActivityGroupProfileBinding.java
+ com.example.orgsocial.databinding.ActivityGroupProfileBinding
+com/example/orgsocial/DialogActivity.java
+ com.example.orgsocial.DialogActivity
+ com.example.orgsocial.DialogActivity$1
+ com.example.orgsocial.DialogActivity$2
+ com.example.orgsocial.DialogActivity$3
+ com.example.orgsocial.DialogActivity$4
+ com.example.orgsocial.DialogActivity$5
+ com.example.orgsocial.DialogActivity$5$1
+com/example/orgsocial/splashScreen.java
+ com.example.orgsocial.splashScreen
+com/example/orgsocial/databinding/ActivityGroupChatBinding.java
+ com.example.orgsocial.databinding.ActivityGroupChatBinding
+com/example/orgsocial/databinding/GroupListItemBinding.java
+ com.example.orgsocial.databinding.GroupListItemBinding
+com/example/orgsocial/authentication/EmailVerificaton.java
+ com.example.orgsocial.authentication.EmailVerificaton
+ com.example.orgsocial.authentication.EmailVerificaton$1
+ com.example.orgsocial.authentication.EmailVerificaton$1$1
+ com.example.orgsocial.authentication.EmailVerificaton$1$1$1
+com/example/orgsocial/authentication/Login.java
+ com.example.orgsocial.authentication.Login
+ com.example.orgsocial.authentication.Login$1
+ com.example.orgsocial.authentication.Login$2
+ com.example.orgsocial.authentication.Login$3
+ com.example.orgsocial.authentication.Login$4
+ com.example.orgsocial.authentication.Login$5
+ com.example.orgsocial.authentication.Login$6
+ com.example.orgsocial.authentication.Login$6$1
+com/example/orgsocial/databinding/ChatListDialogBinding.java
+ com.example.orgsocial.databinding.ChatListDialogBinding
+com/example/orgsocial/databinding/ActivityViewImageBinding.java
+ com.example.orgsocial.databinding.ActivityViewImageBinding
+com/example/orgsocial/adapters/groupChatListAdapter.java
+ com.example.orgsocial.adapters.groupChatListAdapter
+ com.example.orgsocial.adapters.groupChatListAdapter$1
+ com.example.orgsocial.adapters.groupChatListAdapter$2
+ com.example.orgsocial.adapters.groupChatListAdapter$3
+ com.example.orgsocial.adapters.groupChatListAdapter$4
+ com.example.orgsocial.adapters.groupChatListAdapter$Holder
+com/example/orgsocial/databinding/ChatItemRightBinding.java
+ com.example.orgsocial.databinding.ChatItemRightBinding
+com/example/orgsocial/databinding/ActivityDialogBinding.java
+ com.example.orgsocial.databinding.ActivityDialogBinding
+com/example/orgsocial/databinding/ChatItemLeftBinding.java
+ com.example.orgsocial.databinding.ChatItemLeftBinding
+com/example/orgsocial/databinding/ActivityChatsBinding.java
+ com.example.orgsocial.databinding.ActivityChatsBinding
+com/example/orgsocial/BuildConfig.java
+ com.example.orgsocial.BuildConfig

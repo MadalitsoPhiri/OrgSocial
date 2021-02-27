@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="search"
+        app:showAsAction="always"/>
+    <group
+        android:id="@+id/acton_more"
+        android:tint="@android:color/white"
+        android:icon="@drawable/ic_baseline_more_vert_24"
+        >
+
+        <item android:id="@+id/new_group"
+            android:title="new group"
+          />
+        <item android:id="@+id/new_event"
+            android:title="new event"
+            />
+        <item android:id="@+id/settings"
+            android:title="settings"
+            />
+    </group>
+
+
+
+</menu>

@@ -1,0 +1,259 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.orgsocial"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:8:5-80
+13-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:8:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:9:5-81
+14-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:9:22-78
+15
+16    <application
+16-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:11:5-82:19
+17        android:name="androidx.multidex.MultiDexApplication"
+18        android:allowBackup="true"
+18-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:12:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.5.0-beta02] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\ab1b93c02e00ef3354f25427c5e32951\core-1.5.0-beta02\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:13:9-43
+22        android:label="@string/app_name"
+22-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:14:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:15:9-54
+24        android:supportsRtl="true"
+24-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:16:9-35
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme"
+26-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:17:9-40
+27        android:usesCleartextTraffic="true" >
+27-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:18:9-44
+28        <activity android:name="com.example.orgsocial.addParticipants" />
+28-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:19:9-62
+28-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:19:19-50
+29        <activity android:name="com.example.orgsocial.EditGroupSubject" />
+29-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:20:9-54
+29-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:20:19-51
+30        <activity android:name="com.example.orgsocial.EditGroupAdmins" />
+30-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:21:9-53
+30-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:21:19-50
+31        <activity android:name="com.example.orgsocial.GroupSettings" />
+31-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:22:9-51
+31-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:22:19-48
+32        <activity android:name="com.example.orgsocial.GroupDescription" />
+32-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:23:9-54
+32-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:23:19-51
+33        <activity android:name="com.example.orgsocial.ChatProfileActivity" />
+33-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:24:9-57
+33-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:24:19-54
+34        <activity android:name="com.example.orgsocial.GroupProfileActivity" />
+34-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:25:9-58
+34-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:25:19-55
+35        <activity
+35-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:26:9-28:59
+36            android:name="com.example.orgsocial.DialogActivity"
+36-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:27:13-43
+37            android:theme="@style/AppTheme.Transparent" />
+37-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:28:13-56
+38        <activity android:name="com.example.orgsocial.GroupChatActivity" />
+38-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:29:9-55
+38-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:29:19-52
+39        <activity
+39-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:30:9-32:77
+40            android:name="com.example.orgsocial.groupSubjectActivity"
+40-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:31:13-49
+41            android:configChanges="orientation|screenSize|keyboardHidden" />
+41-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:32:13-74
+42        <activity
+42-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:33:9-35:77
+43            android:name="com.example.orgsocial.ParticipantsActivity"
+43-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:34:13-49
+44            android:configChanges="orientation|screenSize|keyboardHidden" />
+44-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:35:13-74
+45        <activity android:name="com.example.orgsocial.ActivityGroupList" />
+45-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:36:9-55
+45-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:36:19-52
+46        <activity
+46-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:37:9-39:77
+47            android:name="com.example.orgsocial.ChatsActivity"
+47-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:38:13-42
+48            android:configChanges="orientation|screenSize|keyboardHidden" />
+48-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:39:13-74
+49        <activity android:name="com.example.orgsocial.ContactsActivity" />
+49-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:40:9-54
+49-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:40:19-51
+50        <activity
+50-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:41:9-43:77
+51            android:name="com.example.orgsocial.settings.AccountSettings"
+51-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:42:13-53
+52            android:configChanges="orientation|screenSize|keyboardHidden" />
+52-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:43:13-74
+53        <activity
+53-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:44:9-46:77
+54            android:name="com.example.orgsocial.ViewImageActivity"
+54-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:45:13-46
+55            android:configChanges="orientation|screenSize|keyboardHidden" />
+55-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:46:13-74
+56        <activity android:name="com.example.orgsocial.ProfileActivity" />
+56-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:47:9-53
+56-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:47:19-50
+57        <activity
+57-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:48:9-56:20
+58            android:name="com.example.orgsocial.settings.SettingsActivity"
+58-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:49:13-54
+59            android:configChanges="orientation|screenSize|keyboardHidden" >
+59-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:50:13-74
+60            <intent-filter>
+60-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:51:13-55:29
+61                <action android:name="android.intent.action.MAIN" />
+61-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:52:17-69
+61-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:52:25-66
+62
+63                <category android:name="android.intent.category.DEFAULT" />
+63-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:54:17-76
+63-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:54:27-73
+64            </intent-filter>
+65        </activity>
+66        <activity
+66-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:57:9-65:20
+67            android:name="com.example.orgsocial.authentication.LoginActivity"
+67-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:58:13-57
+68            android:configChanges="orientation|screenSize|keyboardHidden" >
+68-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:59:13-74
+69            <intent-filter>
+69-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:51:13-55:29
+70                <action android:name="android.intent.action.MAIN" />
+70-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:52:17-69
+70-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:52:25-66
+71
+72                <category android:name="android.intent.category.DEFAULT" />
+72-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:54:17-76
+72-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:54:27-73
+73            </intent-filter>
+74        </activity>
+75        <activity android:name="com.example.orgsocial.StartActivity" >
+75-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:66:9-72:20
+75-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:66:19-48
+76            <intent-filter>
+76-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:67:13-71:29
+77                <action android:name="android.intent.action.MAIN" />
+77-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:52:17-69
+77-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:52:25-66
+78
+79                <category android:name="android.intent.category.LAUNCHER" />
+79-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:70:17-77
+79-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:70:27-74
+80            </intent-filter>
+81        </activity>
+82        <activity
+82-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:73:9-81:20
+83            android:name="com.example.orgsocial.MainActivity"
+83-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:74:13-41
+84            android:configChanges="orientation|screenSize|keyboardHidden" >
+84-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:75:13-74
+85            <intent-filter>
+85-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:51:13-55:29
+86                <action android:name="android.intent.action.MAIN" />
+86-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:52:17-69
+86-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:52:25-66
+87
+88                <category android:name="android.intent.category.DEFAULT" />
+88-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:54:17-76
+88-->C:\Users\Madalitso\Desktop\Orgsocial\app\src\main\AndroidManifest.xml:54:27-73
+89            </intent-filter>
+90        </activity>
+91
+92        <service
+92-->[com.google.firebase:firebase-firestore:21.5.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\869666a0930485a91090a0d220b0bbdb\jetified-firebase-firestore-21.5.0\AndroidManifest.xml:17:9-23:19
+93            android:name="com.google.firebase.components.ComponentDiscoveryService"
+93-->[com.google.firebase:firebase-firestore:21.5.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\869666a0930485a91090a0d220b0bbdb\jetified-firebase-firestore-21.5.0\AndroidManifest.xml:18:13-84
+94            android:directBootAware="true"
+94-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\bffe88b83c05206fdf5d927f1b5e0109\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+95            android:exported="false" >
+95-->[com.google.firebase:firebase-firestore:21.5.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\869666a0930485a91090a0d220b0bbdb\jetified-firebase-firestore-21.5.0\AndroidManifest.xml:19:13-37
+96            <meta-data
+96-->[com.google.firebase:firebase-firestore:21.5.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\869666a0930485a91090a0d220b0bbdb\jetified-firebase-firestore-21.5.0\AndroidManifest.xml:20:13-22:85
+97                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+97-->[com.google.firebase:firebase-firestore:21.5.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\869666a0930485a91090a0d220b0bbdb\jetified-firebase-firestore-21.5.0\AndroidManifest.xml:21:17-111
+98                android:value="com.google.firebase.components.ComponentRegistrar" />
+98-->[com.google.firebase:firebase-firestore:21.5.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\869666a0930485a91090a0d220b0bbdb\jetified-firebase-firestore-21.5.0\AndroidManifest.xml:22:17-82
+99            <meta-data
+99-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\50c2a391d6d5ece9c44bd09b0bd0862f\jetified-firebase-storage-19.1.1\AndroidManifest.xml:33:13-35:85
+100                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+100-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\50c2a391d6d5ece9c44bd09b0bd0862f\jetified-firebase-storage-19.1.1\AndroidManifest.xml:34:17-107
+101                android:value="com.google.firebase.components.ComponentRegistrar" />
+101-->[com.google.firebase:firebase-storage:19.1.1] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\50c2a391d6d5ece9c44bd09b0bd0862f\jetified-firebase-storage-19.1.1\AndroidManifest.xml:35:17-82
+102            <meta-data
+102-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\917ad4cf277b62bd70a66a9feef1a55f\jetified-firebase-database-19.3.0\AndroidManifest.xml:32:13-34:85
+103                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+103-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\917ad4cf277b62bd70a66a9feef1a55f\jetified-firebase-database-19.3.0\AndroidManifest.xml:33:17-109
+104                android:value="com.google.firebase.components.ComponentRegistrar" />
+104-->[com.google.firebase:firebase-database:19.3.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\917ad4cf277b62bd70a66a9feef1a55f\jetified-firebase-database-19.3.0\AndroidManifest.xml:34:17-82
+105            <meta-data
+105-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\5f47314dc11e95f3f3186b598274b2c2\jetified-firebase-auth-19.3.2\AndroidManifest.xml:36:13-38:85
+106                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+106-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\5f47314dc11e95f3f3186b598274b2c2\jetified-firebase-auth-19.3.2\AndroidManifest.xml:37:17-109
+107                android:value="com.google.firebase.components.ComponentRegistrar" />
+107-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\5f47314dc11e95f3f3186b598274b2c2\jetified-firebase-auth-19.3.2\AndroidManifest.xml:38:17-82
+108        </service>
+109
+110        <activity
+110-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\5f47314dc11e95f3f3186b598274b2c2\jetified-firebase-auth-19.3.2\AndroidManifest.xml:24:9-31:50
+111            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+111-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\5f47314dc11e95f3f3186b598274b2c2\jetified-firebase-auth-19.3.2\AndroidManifest.xml:25:13-85
+112            android:excludeFromRecents="true"
+112-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\5f47314dc11e95f3f3186b598274b2c2\jetified-firebase-auth-19.3.2\AndroidManifest.xml:26:13-46
+113            android:exported="true"
+113-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\5f47314dc11e95f3f3186b598274b2c2\jetified-firebase-auth-19.3.2\AndroidManifest.xml:27:13-36
+114            android:launchMode="singleTask"
+114-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\5f47314dc11e95f3f3186b598274b2c2\jetified-firebase-auth-19.3.2\AndroidManifest.xml:28:13-44
+115            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+115-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\5f47314dc11e95f3f3186b598274b2c2\jetified-firebase-auth-19.3.2\AndroidManifest.xml:29:13-102
+116            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+116-->[com.google.firebase:firebase-auth:19.3.2] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\5f47314dc11e95f3f3186b598274b2c2\jetified-firebase-auth-19.3.2\AndroidManifest.xml:30:13-72
+117
+118        <provider
+118-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\bffe88b83c05206fdf5d927f1b5e0109\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+119            android:name="com.google.firebase.provider.FirebaseInitProvider"
+119-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\bffe88b83c05206fdf5d927f1b5e0109\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+120            android:authorities="com.example.orgsocial.firebaseinitprovider"
+120-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\bffe88b83c05206fdf5d927f1b5e0109\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+121            android:exported="false"
+121-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\bffe88b83c05206fdf5d927f1b5e0109\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+122            android:initOrder="100" />
+122-->[com.google.firebase:firebase-common:19.3.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\bffe88b83c05206fdf5d927f1b5e0109\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+123
+124        <activity
+124-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\0c246b9a3415d4818ed816dd70674763\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+125            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+125-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\0c246b9a3415d4818ed816dd70674763\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+126            android:exported="false"
+126-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\0c246b9a3415d4818ed816dd70674763\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+127            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+127-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\0c246b9a3415d4818ed816dd70674763\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+128
+129        <meta-data
+129-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\b745396d28558714541759c1261be9ae\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+130            android:name="com.google.android.gms.version"
+130-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\b745396d28558714541759c1261be9ae\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+131            android:value="@integer/google_play_services_version" />
+131-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Madalitso\.gradle\caches\transforms-2\files-2.1\b745396d28558714541759c1261be9ae\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+132    </application>
+133
+134</manifest>

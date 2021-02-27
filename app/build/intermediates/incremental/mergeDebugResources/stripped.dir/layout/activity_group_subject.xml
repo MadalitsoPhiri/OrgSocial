@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".groupSubjectActivity" android:tag="layout/activity_group_subject_0">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                app:titleTextColor="@android:color/white">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="New group"
+                        android:textStyle="bold"
+                        android:textColor="@android:color/white"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/participantCount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Add subject"
+                        android:textColor="@android:color/white" />
+                </LinearLayout>
+
+            </androidx.appcompat.widget.Toolbar>
+            <LinearLayout
+                android:orientation="vertical"
+                android:padding="10dp"
+                android:background="@android:color/white"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:padding="10dp"
+                    android:orientation="horizontal"
+                    android:layout_height="wrap_content">
+                    <com.mikhaellopez.circularimageview.CircularImageView
+                        android:id="@+id/groupIcon"
+                        app:srcCompat="@drawable/ic_group_6"
+                        app:civ_border="false"
+                        app:civ_background_color="@color/colorNormal"
+                        android:layout_width="56dp"
+                        android:layout_height="56dp"/>
+
+                    <EditText
+                        android:id="@+id/groupSubject"
+                        android:layout_marginLeft="10dp"
+                        android:hint="Type group subject here..."
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+                </LinearLayout>
+                <TextView
+                    android:text="Provide a group subject and optional group icon"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginBottom="20dp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:background="@color/colorNormal"
+                android:layout_height="match_parent">
+                <TextView
+                    android:id="@+id/participants"
+                    android:text="Participants: "
+                    android:padding="15dp"
+                    android:textColor="@android:color/black"
+                    android:textStyle="bold"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"/>
+                <androidx.recyclerview.widget.RecyclerView
+                    android:id="@+id/participantsDrawerRecycler"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"/>
+            </LinearLayout>
+        </LinearLayout>
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/confirmGroup"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/ripple_oval"
+            app:srcCompat="@drawable/ic_baseline_check_24"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="175dp"
+            android:scaleType="centerCrop"
+            android:layout_marginRight="15dp"
+            android:layout_width="56dp"
+            android:layout_height="56dp"/>
+    </RelativeLayout>
+         

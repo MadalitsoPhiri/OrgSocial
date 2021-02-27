@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_info_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_outline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_data_usage_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_data_usage_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_fragment_user_info.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout-sw600dp\\fragment_user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_list.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_group_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_welcome.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_17.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_group_17.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet_edit_phone.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\bottom_sheet_edit_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_profile.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_group_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_9.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_group_9.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn3.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\btn3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_image.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_view_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_chat.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_group_chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_notifications_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_notifications_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_circle_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_photo_camera_small.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_photo_camera_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_downward_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_downward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\raw_windowsiconmail.json.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\raw\\windowsiconmail.json"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_group_subject.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_edit_group_subject.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_login.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout-land\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_visibility_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_visibility_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user_placeholder.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_user_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_group_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_group_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_calls.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_calls.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_email_verificaton.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_email_verificaton.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dialog.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_ic_call_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_add_ic_call_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout-land_fragment_welcome.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout-land\\fragment_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\anim_exit_to_left.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\anim\\exit_to_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_orgsociallogo.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_orgsociallogo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\anim_enter_from_right.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\anim\\enter_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_chat_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_chat_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_send_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_send_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_participants_recycler_itemview1.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\participants_recycler_itemview1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_settings.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_group_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_phone_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_phone_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_frame_1.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_frame_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_participants.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_add_participants.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_events.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_group_badge1.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable-v24\\group_badge1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet_edit_about.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\bottom_sheet_edit_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_list_item.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\group_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\anim_enter_from_left.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\anim\\enter_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\menu_contacts_menu.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\menu\\contacts_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chats.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_camera_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_outline_camera_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ripple_oval.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ripple_oval.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_signup.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_group_badge.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\group_badge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_text_chat_announce.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable-v24\\bg_text_chat_announce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_photo_camera_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_photo_camera_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_people_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_people_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_12.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_group_12.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_photo_library_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_outline_photo_library_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_description.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_group_description.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_exit_to_app_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_18.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_group_18.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_8.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_group_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chats.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_chats.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_navigate_next_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_navigate_next_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_account_settings.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_account_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_list_dialog.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\chat_list_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_13.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_group_13.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_groups.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_groups.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_user_info.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_user_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_5.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_group_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_announcement.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\chat_item_announcement.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet_picker.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\bottom_sheet_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_right.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\chat_item_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_visibility_off_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_visibility_off_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_delete_forever_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_delete_forever_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_20.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_group_20.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_bottom_sheet_edit_name.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\bottom_sheet_edit_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_text_chat_left.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\bg_text_chat_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_contact_list_item1.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\contact_list_item1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_auth_container.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\auth_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_person_add_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_person_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_help_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_help_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_6.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_group_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\raw_emailservices.json.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\raw\\emailservices.json"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_profile.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_chat_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_participants_grid_item_view1.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\participants_grid_item_view1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start_container.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_start_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contacts.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_calendar_today_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_list_item.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\chat_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_3.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_group_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_participants_groups.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_participants_groups.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_info_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_info_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_status.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\raw_chivacola.json.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\raw\\chivacola.json"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_check_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_11.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_group_11.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_group_admins.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_edit_group_admins.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group_subject.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\activity_group_subject.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\menu_group_menu.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\menu\\group_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_keyboard_voice_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_keyboard_voice_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_participants_grid_item_view.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\participants_grid_item_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_contact_list_item2.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\contact_list_item2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_warning_24px.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_warning_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_7.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_group_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn1.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\btn1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_upward_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_upward_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_edit_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_attach_file_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_attach_file_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_text_chat_right.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\bg_text_chat_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_19.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_group_19.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_vpn_key_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_vpn_key_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_camera_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_camera_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group_14.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_group_14.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_call_list_item.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\call_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_participants_recycler_itemview.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\participants_recycler_itemview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_contact_list_item.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\contact_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_participants_list_item.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\participants_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_ripple_oval.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable-v21\\ripple_oval.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\anim_exit_to_right.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\anim\\exit_to_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_item_left.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\layout\\chat_item_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cancel_24px.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_cancel_24px.xml"
+    },
+    {
+        "merged": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_emoji_emotions_24.xml.flat",
+        "source": "C:\\Users\\Madalitso\\Desktop\\Orgsocial\\app\\src\\main\\res\\drawable\\ic_baseline_emoji_emotions_24.xml"
+    }
+]
